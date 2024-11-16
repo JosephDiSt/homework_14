@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx-swt.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.base.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.controls.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.fxml.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.graphics.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.media.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.swing.jar",
+        "/Users/josephdistefanomac/Downloads/javafx-sdk-23.0.1/lib/javafx.web.jar"
+    ]
+}
