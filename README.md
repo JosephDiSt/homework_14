@@ -1,2 +1,2 @@
-This code is a 5x5 tic tac toe board. 
-# homework_15
+this code is a metric converter
+# homework_14
